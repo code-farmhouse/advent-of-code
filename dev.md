@@ -20,12 +20,6 @@ These notes are used to track development brainstorming.
     1. Check your answer
     2. Show answer
     3. Print code to terminal or file
-- Types
-  - Message
-    - MessageType string
-    - MessageText string
-- Functions
-  - 
 
 ### Questions
 - Each question set can be retrieved from https://adventofcode.com/{x}/day/{y}, where {x} is the year and {y} is the question number
